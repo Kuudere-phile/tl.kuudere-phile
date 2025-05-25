@@ -15,18 +15,15 @@
 
 ## Демонстрація програми у YouTube:<br>
 <a class="link2" href="https://youtu.be/pl1MdYjYlIM">
-<img src="https://raw.githubusercontent.com/Kuudere-phile/kuuderephile/refs/heads/main/image/YouT.jpg" alt="Зображення" style="display: block; margin: 0 auto;">
+<img src="https://raw.githubusercontent.com/Kuudere-phile/tl.kuudere-phile/refs/heads/main/image/YouT.jpg" alt="Зображення" style="display: block; margin: 0 auto;">
 </a>
 
 ## Завантажити програму: 
-<a class="link2" href="https://github.com/Kuudere-phile/kuuderephile/releases/download/v1.0/Kuuderephile-1.0-pc.7z">v1.0 23.10.2023р Win</a><br>
-<a class="link2" href="https://github.com/Kuudere-phile/kuuderephile/releases/download/v1.0/Kuuderephile-1.0-mac.7z">v1.0 23.10.2023р Mac</a><br>
+<a class="link2" href="https://github.com/Kuudere-phile/tl.kuudere-phile/releases/download/v1.0/Kuuderephile-1.0-pc.7z">v1.0 23.10.2023р Win</a><br>
+<a class="link2" href="https://github.com/Kuudere-phile/tl.kuudere-phile/releases/download/v1.0/Kuuderephile-1.0-mac.7z">v1.0 23.10.2023р Mac</a><br>
 ##
 Мій [Telegram](https://t.me/kuuderephile) та [Discord](https://discord.gg/36yH5WrmN3)
 #
 <div align="center">
-<a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate">
-<img src="https://raw.githubusercontent.com/Kuudere-phile/kuuderephile/main/image/qr.webp" alt="Зображення" style="display: block; margin: 0 auto;">
-</a>
-<br><a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate">Підтримати розробника</a>
+<br><a class="link2" href="https://kuudere-phile.github.io/kuuderephile/donate/">Підтримати розробника</a>
 </div>
